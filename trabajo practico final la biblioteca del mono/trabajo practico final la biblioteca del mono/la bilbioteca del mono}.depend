@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1761826765 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\main.cpp
+	<iostream>
+	"menu.cls.h"
+
+1761749137 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivolibros.cpp
+	<iostream>
+
+1761749137 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\libros.cpp
+	"libros.h"
+	<cstring>
+	<iostream>
+
+1761776667 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\libros.h
+	"ArchivoLibros.H"
+	"clsfecha.h"
+
+1761749137 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivolibros.h
+
+1761749065 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\clsfecha.h
+
+1761778135 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\prestamos.cpp
+	<iostream>
+	"prestamos.h"
+	"clsfecha.h"
+
+1761777890 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\prestamos.h
+	"clsFecha.h"
+
+1761825024 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\autores.cpp
+	<iostream>
+	"cstring"
+	"autores.h"
+
+1761825024 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\autores.h
+	"clsFecha.h"
+
+1761825670 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\generos.cpp
+	<iostream>
+	"cstring"
+	"generos.h"
+
+1761825680 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\generos.h
+
+1761830938 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\menucls.cpp
+	<iostream>
+	"menu.cls.h"
+	"clsFecha.h"
+
+1761829816 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\menu.cls.h
+
