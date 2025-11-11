@@ -3,13 +3,13 @@
 
 
 
-void menuprincipal();
+int menuprincipal();
 void menulibros();
 void menusocios();
-void menuprestamos();
-void menuautores();
-void menumultas();
-void menugeneros();
+void menuPrestamos();
+void menuAutores();
+void menuMultas();
+void menuGeneros();
 void cargarSocio();
 
 

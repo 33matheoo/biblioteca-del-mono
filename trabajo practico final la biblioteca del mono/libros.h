@@ -52,7 +52,8 @@ Fecha getfechaentrada();
 
 void cargar();
 
-void Mostrar();
-}
+void mostrar();
+     bool getEstado();
+};
 
 #endif // LIBROS_H_INCLUDED

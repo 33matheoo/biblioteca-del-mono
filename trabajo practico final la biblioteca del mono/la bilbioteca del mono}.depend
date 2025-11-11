@@ -1,7 +1,69 @@
 # depslib dependency file v1.0
-1761746016 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\main.cpp
+1761859378 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\main.cpp
+	<iostream>
+	"menu.cls.h"
+
+1762870602 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivolibros.cpp
+	<iostream>
+	"ArchivoLibros.H"
+	<cstring>
+	"libros.h"
+
+1761749137 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\libros.cpp
+	"libros.h"
+	<cstring>
 	<iostream>
 
-1761749137 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivolibros.cpp
+1762869441 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\libros.h
+	"ArchivoLibros.H"
+	"clsfecha.h"
+
+1762869707 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivolibros.h
+	"libros.h"
+
+1761749065 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\clsfecha.h
+
+1761778135 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\prestamos.cpp
 	<iostream>
+	"prestamos.h"
+	"clsfecha.h"
+
+1761777890 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\prestamos.h
+	"clsFecha.h"
+
+1761825024 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\autores.cpp
+	<iostream>
+	"cstring"
+	"autores.h"
+
+1761825024 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\autores.h
+	"clsFecha.h"
+
+1761825670 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\generos.cpp
+	<iostream>
+	"cstring"
+	"generos.h"
+
+1761825680 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\generos.h
+
+1761860352 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\menucls.cpp
+	<iostream>
+	"menu.cls.h"
+	"clsFecha.h"
+
+1761829816 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\menu.cls.h
+
+1762867421 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivo.autores.cpp
+	<iostream>
+	<cstring>
+	"archivo.autores.h"
+
+1762867064 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivo.autores.h
+
+1762868602 source:c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivo.multas.cpp
+	<iostream>
+	"archivo.multas.h"
+	<cstring>
+
+1762868042 c:\users\mateo\documents\trabajo practico final la biblioteca del mono\archivo.multas.h
 

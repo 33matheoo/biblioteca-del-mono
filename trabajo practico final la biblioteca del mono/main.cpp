@@ -1,10 +1,12 @@
 #include <iostream>
+#include "menu.cls.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+
+    menuprincipal();
 
 
 
